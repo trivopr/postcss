@@ -6,4 +6,3 @@
 <h6>Thanks</h6>
 Website:
 <address>http://frontendmaster.net</address> <br>
-<address>http://sonhoavanmiennam.com</address>
