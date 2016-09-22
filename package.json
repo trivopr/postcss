@@ -1,0 +1,30 @@
+{
+  "name": "postcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dev-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivopr/postcss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trivopr/postcss/issues"
+  },
+  "homepage": "https://github.com/trivopr/postcss#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.4.1",
+    "css-loader": "^0.25.0",
+    "express": "^4.13.3",
+    "postcss-loader": "^0.13.0",
+    "precss": "^1.4.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.1.0-beta.25",
+    "webpack-dev-middleware": "^1.8.1",
+    "webpack-hot-middleware": "^2.4.1"
+  }
+}

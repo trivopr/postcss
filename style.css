@@ -1,0 +1,21 @@
+:root {
+  --imageWidth: 640px;
+  --imageHeight: 420px;
+  --sectionWidth: 600px;
+  --marginTop50: 50px;
+}
+
+
+body {
+  background: #d4d4d4;
+}
+
+.section {
+  width: var(--sectionWidth);
+  height: auto;
+  margin: var(--marginTop50) auto;
+}
+
+.section--intro {
+  width: 500px;
+}
